@@ -1,21 +1,40 @@
-# Django Blog
-A simple blog application built with Django.
+# Django Blog App
 
+## Features
 
-## Required Software
-- [Python](https://www.python.org/downloads) 3.6 or greater
-- [Pipenv](https://pipenv.pypa.io/en/latest/#install-pipenv-today)
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- A modern web browser
+**_Login or Create an Account_**
+**_View and Customize Your Profile_**
+**_View the Articles_**
+**_View an Authors Articles_**
+**_Create Your Own Articles_**
+**_Articles are Paginated_**
+**_Article Author can Edit or Delete Their Article_**
+**_Users Password can be Reset_**
+**_Secret Admin Panel to Manage Users and Articles_**
+## Deploy the Project
 
-## Local Setup
-1. Clone the repository
-1. Create and activate a virtual environment using `pipenv`
-   by running `$ pipenv shell`
-1. Install dev dependencies by running `$ pipenv install --dev`
-1. Generate compressed static files using `$ python manage.py collectstatic`
-1. Run the tests using `$ python manage.py test`
-1. Run the database migrations using `$ python manage.py migrate`
-1. Create a superuser using `$ python manage.py createsuperuser`
-1. Use `$ python manage.py runserver` to run the development server
-1. Visit [`localhost:8000`](http://localhost:8000) in your browser
+__Clone the repo to your local machine using the terminal__:
+```
+$ git clone git@github.com:andrewbaldwin44/Django_Blog.git
+```
+
+__Deploy the Development Server__:
+1. Move into the project directory `cd django_blog`
+2. Create a virtual environment: `python3 -m venv project_env`
+3. Activate the virtual environment: `source project_env/bin/activate`
+4. Install the dependencies: `pip install -r requirements.txt`
+5. Start the development server: `python manage.py runserver `
+
+This will run the app in the development mode.<br />
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+
+The page will reload if you make edits.
+
+## Technologies Used
+
+- Python
+- Django
+- SQL Database
+- Django Crispy Forms
+- Pillow Image Management
+
