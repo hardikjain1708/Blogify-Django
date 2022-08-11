@@ -15,11 +15,11 @@
 
 __Clone the repo to your local machine using the terminal__:
 ```
-$ git clone git@github.com:andrewbaldwin44/Django_Blog.git
+$ git clone https://github.com/hardikjain1708/Blogify-Django.git
 ```
 
 __Deploy the Development Server__:
-1. Move into the project directory `cd django_blog`
+1. Move into the project directory `cd django_project01`
 2. Create a virtual environment: `python3 -m venv project_env`
 3. Activate the virtual environment: `source project_env/bin/activate`
 4. Install the dependencies: `pip install -r requirements.txt`
