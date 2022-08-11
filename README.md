@@ -2,16 +2,16 @@
 
 ## Features
 
-**_Login or Create an Account_**
-**_View and Customize Your Profile_**
-**_View the Articles_**
-**_View an Authors Articles_**
-**_Create Your Own Articles_**
-**_Articles are Paginated_**
-**_Article Author can Edit or Delete Their Article_**
-**_Users Password can be Reset_**
-**_Secret Admin Panel to Manage Users and Articles_**
-## Deploy the Project
+**_Login or Create an Account_**<br>
+**_View and Customize Your Profile_**<br>
+**_View the Articles_**<br>
+**_View an Authors Articles_**<br>
+**_Create Your Own Articles_**<br>
+**_Articles are Paginated_**<br>
+**_Article Author can Edit or Delete Their Article_**<br>
+**_Users Password can be Reset_**<br>
+**_Secret Admin Panel to Manage Users and Articles_**<br>
+## Deploy the Project<br>
 
 __Clone the repo to your local machine using the terminal__:
 ```
