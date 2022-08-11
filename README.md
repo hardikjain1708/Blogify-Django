@@ -1,10 +1,6 @@
 # Django Blog
 A simple blog application built with Django.
 
-_Credits:_ [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-
-[![Continuous Integration](https://github.com/harisonmg/django-blog/actions/workflows/ci.yml/badge.svg)](https://github.com/harisonmg/django-blog/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/harisonmg/django-blog/badge.svg?branch=master)](https://coveralls.io/github/harisonmg/django-blog?branch=master)
 
 ## Required Software
 - [Python](https://www.python.org/downloads) 3.6 or greater
