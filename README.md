@@ -1,16 +1,16 @@
-# Django Blog App
+# Django Blog App👨🏻‍💻
 
 ## Features
 
-**_Login or Create an Account_**<br>
-**_View and Customize Your Profile_**<br>
-**_View the Articles_**<br>
-**_View an Authors Articles_**<br>
-**_Create Your Own Articles_**<br>
-**_Articles are Paginated_**<br>
-**_Article Author can Edit or Delete Their Article_**<br>
-**_Users Password can be Reset_**<br>
-**_Secret Admin Panel to Manage Users and Articles_**<br>
+**1. Login or Create an Account**<br>
+**2. View and Customize Your Profile**<br>
+**3. View the Articles**<br>
+**4. View an Authors Articles**<br>
+**5. Create Your Own Articles**<br>
+**6. Articles are Paginated**<br>
+**7. Article Author can Edit or Delete Their Article**<br>
+**8. Users Password can be Reset**<br>
+**9. Secret Admin Panel to Manage Users and Articles**<br>
 ## Deploy the Project<br>
 
 __Clone the repo to your local machine using the terminal__:
